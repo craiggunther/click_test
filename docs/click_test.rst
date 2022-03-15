@@ -5,3 +5,7 @@ click\_test module
    :members:
    :undoc-members:
    :show-inheritance:
+
+.. click:: click_test:hello
+   :prog: click_test
+   :nested: full
